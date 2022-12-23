@@ -1,0 +1,6 @@
+Objetivo: Criar um exemplode uma clase para representar ima SmartTV onde:
+
+1 - Ela tenha as características ligar(boolean), canal(int) e volume (int)
+2 - Poderá ligar e delsigar e assim mudar o estado ligada
+3 - poderá aumentar e diminuirá o volume sempre em +1 ou -1
+4 - Poderá mjdar de canal de 1 em 1 ou definindo o número correspondente
